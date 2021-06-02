@@ -33,8 +33,5 @@ import java.text.DecimalFormat;
     System.out.println (" Ou: "+df.format(irreducible));
    }
 
-  if(sc!=null){
-    sc.close();
-  }
 }
 }
