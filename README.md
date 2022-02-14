@@ -10,6 +10,6 @@
 <li><p align="justify" style="text-align: left;">O algoritmo foi feito apenas com "for" e "if", além da classe "DecimalFormat", porém ela é opcional. </p></li>
 <li><p align="justify" style="text-align: left;">O for acha os divisores em comum do numerador e denominador, logo após o programa pega o maior divisor dessa sequência (mdc) e divide pelos 2 números, mostrando sua forma simplificada. </p></li>
 </ul>
-	<p style="font-size: 10px;">Meu instagram: <a href="http://instagram/fontesjoaomanoel">@fontesjoaomanoel</a></p>
+	<p style="font-size: 10px;">Meu instagram: <a href="http://instagram.com/fontesjoaomanoel">@fontesjoaomanoel</a></p>
 </body>
 </html>
